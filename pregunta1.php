@@ -87,16 +87,19 @@
 
 					<!-- BOTONES DE NIVELES -->
           <div class="col-md-6 text-center">
-            <div class="col-xs-12">
-              <a href="bien.php" class="btn btn-lg btn-block btn-outline" allow_scale_larger="yes"/>Heinrich Hertz
+            <div class="col-xs-6 col-lg-12">
+                  <a href="bien.php" class="btn btn-lg btn-block btn-outline">
+                    <img src="img/radio-lock.svg" alt="" style="display:inline; padding-right: 2%">Heinrich Hertz
+                  </a>
+                </div>'
+            <div class="col-xs-6 col-lg-12">
+              <a href="mal.php" class="btn btn-lg btn-block btn-outline">
+                <img src="img/radio-lock.svg" alt="" style="display:inline; padding-right: 2%">Samuel Morse
               </a>
             </div>
-            <div class="col-xs-12">
-              <a href="mal.php" class="btn btn-lg btn-block btn-outline"/>Samuel Morse
-              </a>
-            </div>
-            <div class="col-xs-12">
-              <a href="mal.php" class="btn btn-lg btn-block btn-outline"/>Pulitzer
+            <div class="col-xs-6 col-lg-12">
+              <a href="mal.php" class="btn btn-lg btn-block btn-outline">
+                <img src="img/radio-lock.svg" alt="" style="display:inline; padding-right: 2%">Pulitzer
               </a>
             </div>
           </div>
