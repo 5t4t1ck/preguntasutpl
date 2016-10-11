@@ -81,22 +81,22 @@
            <div class ="row">
 
 			 <!--<img src="img/radio2.svg" alt="radio" style="max-width:35px; display:inline" > -->
-				<div class="intro-text col-xs-12 col-sm-12 col-lg-12">
+				<div class="intro-text">
 				     <span class="name"> <h3>1. ¿Descubre la imagen de quién descubrió las ondas sonoras?</h3> </span>
 			 <!--<hr class="star-light">-->
 
 					<!-- BOTONES DE NIVELES -->
-          <div class="col-md-12 text-center">
+          <div class="col-md-6 text-center">
             <div class="col-xs-12">
-              <a href="bien.php" class="btn btn-lg btn-block btn-outline; width: 100%" >Heinrich Hertz
+              <a href="bien.php" class="btn btn-lg btn-block btn-outline" allow_scale_larger="yes"/>Heinrich Hertz
               </a>
             </div>
             <div class="col-xs-12">
-              <a href="mal.php" class="btn btn-lg btn-block btn-outline">Samuel Morse
+              <a href="mal.php" class="btn btn-lg btn-block btn-outline"/>Samuel Morse
               </a>
             </div>
             <div class="col-xs-12">
-              <a href="mal.php" class="btn btn-lg btn-block btn-outline">Pulitzer
+              <a href="mal.php" class="btn btn-lg btn-block btn-outline"/>Pulitzer
               </a>
             </div>
           </div>
